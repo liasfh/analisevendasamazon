@@ -1,4 +1,4 @@
-# analisevendas
+# analisevendasamazon
  # Para elaboração dessa análise da dados foi usado uma base de dados pública fornecida pelo site da Kaggle. 
  # Nesta base dados contem informações de vendas de produtos eletronicos do site Amazon no Brasil.
  # Para esta análise foi considerados o seguintes indicadores:
